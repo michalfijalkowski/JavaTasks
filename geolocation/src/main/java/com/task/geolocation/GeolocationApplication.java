@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GeolocationApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Test3");
+		System.out.println("Test1");
 		SpringApplication.run(GeolocationApplication.class, args);
 	}
 
